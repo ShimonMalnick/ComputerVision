@@ -12,3 +12,8 @@ An example for such a visualization can be shown below, where I took a image of
 random noise and by performing the above on a neuron that classifies the
 'parachute' class, I get the following result:
 ![Parachute](./src/images/parachute.png)
+
+
+
+One can see shapes of parachutes in the given image in the center and upper
+part of the image.
